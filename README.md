@@ -16,6 +16,9 @@ This list is up to date. Last update: 06/03/23
 ## Prompting
 1. [ChatGPT prompts](https://prompts.chat/)
 2. ⭐️ [Generating detailed prompts for text-to-image models such as Midjourney & Stable Diffusion](https://twitter.com/guyp/status/1598020781065527296)
+- [PromptImage](https://promptimage.cloud) - Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
+- [TeslaWraps](https://teslawraps.design) - Browser Tesla Paint Shop wrap designer — core editing + PNG export free without account; optional AI credit…
+- [GrokVideo Studio](https://grokvideogenerator.dev) - Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official …
 3. ⭐️ [A comprehensive repository for everything prompt engineering, ChatGPT included](https://github.com/dair-ai/Prompt-Engineering-Guide)
 4. [Prompto - a community-ran directory of ChatGPT prompts](https://prompto.chat)
 
